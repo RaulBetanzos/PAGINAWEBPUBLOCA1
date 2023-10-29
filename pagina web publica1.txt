@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="text-html" content="text/html;charset=utf-8">
+        <title id="titulo1">PaginaWebPublica</title>
+        <link rel="stylesheet" href="/styles/estilos de paginas web publicas/stylepwp.css">
+    </head>
+    <body>
+        <h3 id="titulo2">·Pagina web pública·</h3>
+        <p>Muy buenas tardes grupo, queria poneros por aqui esta pagina web para que la probeis y me deis sugerencias de cosas que puedo añadirle, ya estoy avanzado en html y estoy empezando con el css.
+            a continuación os voy a ir poniendo un par de cosas como botones, videos etc, solo para ir experimentando. gracias ;)
+        </p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/6u3DKwLBRMc?si=SPMGK1W14XUIb6Lq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <br><br><br>
+        <a href="https://eelslap.com">ENLACE</a>
+    </body>
+</html>
